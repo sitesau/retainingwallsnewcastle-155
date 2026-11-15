@@ -1,0 +1,22 @@
+{
+  "wheel_id": 902,
+  "structure": "umbrella",
+  "slug": "retainingwallsnewcastle-155",
+  "project": "retaining-wall-builders-newcastle-quotes-explained-1b6a0db9f83a",
+  "parent_t1_ref": "retainingwallsnewcastle-011",
+  "node_role": "buffer",
+  "money_target": "retainingwallsnewcastle.com.au",
+  "primary_kw": "retaining wall builders newcastle quotes explained",
+  "intended_url": "https://sitesau.github.io/retainingwallsnewcastle-155/",
+  "tier": "T2",
+  "writeback_nonce": "2fef36f6834f9ea5",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-wall-builders-newcastle-011/",
+      "anchor": "Retaining Wall Builders Newcastle: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
